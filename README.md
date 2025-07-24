@@ -1,6 +1,7 @@
 # Preference-Guided Diffusion for Multi-Objective Offline Optimization
 
 This repository contains the implementation of our paper **"Preference-Guided Diffusion for Multi-Objective Offline Optimization"**.
+**Paper Link:** [arXiv:2503.17299](https://arxiv.org/abs/2503.17299)
 
 ## 🎯 Approach
 
@@ -8,8 +9,6 @@ We propose a preference-guided diffusion model that generates Pareto-optimal des
 
 ![Preference-Guided Diffusion](figs/cond_gif.gif)
 
-## 📄 Paper
-**Paper Link:** [arXiv:2503.17299](https://arxiv.org/abs/2503.17299)
 
 ## 🚀 Quick Start
 
@@ -73,7 +72,7 @@ bash scripts/multiple_models.sh
 ```
 
 ## 📞 Contact
-For questions, open an issue or contact [yashas.annadani@tum.de]
+For questions, open an issue or contact [yashas.annadani@tum.de], [syrineb@stanford.edu]
 
 ---
-*Built on the offline MOO benchmark by Xue et al. (2024)*
+*Built on the offline MOO benchmark by Xue et al. (2024), We thank the authors for their open-source contributions.*
