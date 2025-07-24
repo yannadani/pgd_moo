@@ -1,0 +1,11 @@
+n_epochs: 300 
+batch_size: 256
+
+lr: 0.0003 
+three_dim_out: False
+use_diversity_metric: True
+diversity_metric: crowding_distance
+diversity_score_threshold: 0
+
+subsample: True
+subsample_ratio: 0.3
