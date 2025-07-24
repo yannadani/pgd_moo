@@ -19,3 +19,7 @@
 /**-test-hv.csv
 
 **/__pycache__
+
+# macOS system files
+.DS_Store
+**/.DS_Store
