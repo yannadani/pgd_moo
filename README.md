@@ -16,7 +16,7 @@ We propose a preference-guided diffusion model that generates Pareto-optimal des
 ### Install
 ```bash
 # Clone and install
-git clone https://github.com/your-username/pgd_moo.git
+git clone https://github.com/yannadani/pgd_moo.git
 cd pgd_moo
 
 # Setup conda environment
